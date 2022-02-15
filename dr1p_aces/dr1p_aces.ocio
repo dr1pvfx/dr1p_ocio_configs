@@ -4,7 +4,7 @@ search_path: luts
 strictparsing: true
 luma: [0.2126, 0.7152, 0.0722]
 
-description: An ACES config generated from python
+description: An ACES config generated from python, reduced colorspace set for 3D applications. by DR1P/Finn Jaeger
 
 
 roles:
